@@ -66,9 +66,9 @@ Remembering that you need to have a [Figma](http://figma.com/) account to access
 ### Features
 
 - [x] Build the App
-- [] Make him responsive
-- [] Create a dark theme
-- [] Transform into a PWA aplication
+- [ ] Make him responsive
+- [ ] Create a dark theme
+- [ ] Transform into a PWA aplication
 ---
 
 Developed by Francisco Affonso 🖤
